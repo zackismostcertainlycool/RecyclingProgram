@@ -41,7 +41,7 @@ public class Main {
 			break;
 				
 			case 3:
-				// add a feature
+				Main RecyclingCalculator = new Main();
     		break;
 				
 			case 4:
