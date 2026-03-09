@@ -41,8 +41,10 @@ public class joinGroup {
         System.out.print("Would you like to join a group? (yes/no): ");
         String answer = Main.scanner.nextLine().toLowerCase();
 
-        if (!answer.equals("yes")) return;
-
+        if (!answer.equals("yes")) {
+            System.out.print("Returning to main menu...");
+            return;
+        }
         System.out.print("Enter the group number to join: ");
         int userInput = Main.scanner.nextInt() - 1;
         Main.scanner.nextLine();
