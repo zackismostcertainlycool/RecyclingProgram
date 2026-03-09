@@ -13,7 +13,7 @@ public class Main {
         int userInput = 0;
 
         // prints program name
-        String programName = "Recycling Tracker Program"; 
+        String programName = "Recycling Program"; 
 		System.out.println(largeDivider + "\n"+ programName +"\n" + largeDivider);
         
     while(userInput != 6) {
