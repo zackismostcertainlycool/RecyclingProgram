@@ -71,7 +71,7 @@ public class Main {
 				3. Recycling Calculator
 				4. Join a Local Group
 				5. Exit
-				""");
+				""" + divider);
 	}
 
 }
