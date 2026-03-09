@@ -49,7 +49,7 @@ public class Main {
 			break;
 
 			case 5:
-                //todo: add map feature
+                map.main(null);
 			break;
 					
 			case 6:
