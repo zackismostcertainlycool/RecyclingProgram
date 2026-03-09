@@ -37,7 +37,7 @@ public class Main {
 			break;
 
 			case 2:
-				
+				RecyclingLog.createLog();
 			break;
 				
 			case 3:
