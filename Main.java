@@ -33,23 +33,27 @@ public class Main {
 			//	break;
 				
 			case 1:
-				// Main ________ = new Main();
+				RecyclingInfo.main(null);
 			break;
 
 			case 2:
-				Main RecyclingInfo = new Main();
+				RecyclingCalculator.main(null);
 			break;
 				
 			case 3:
-				Main RecyclingCalculator = new Main();
+				JoinGroup.joinGroup();
     		break;
 				
 			case 4:
 				//joinGroup = new joinGroup();
 			break;
-					
+
 			case 5:
-				// Main loop ends
+
+			break;
+					
+			case 6:
+    			System.out.println("Thank you for using the Recycling Tracker Program. Goodbye!");
 			break;
 					
 			default:
