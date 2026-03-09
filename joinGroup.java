@@ -25,7 +25,7 @@ public class joinGroup {
         );
     }
 
-    public static void main() {
+    public static void joinGroup() {
 
         System.out.println("\nAvailable Groups\n" + Main.divider);
 

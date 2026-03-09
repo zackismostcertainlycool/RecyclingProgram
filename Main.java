@@ -15,7 +15,8 @@ public class Main {
         // prints program name
         String programName = "Recycling Program"; 
 		System.out.println(largeDivider + "\n"+ programName +"\n" + largeDivider);
-        
+
+	joinGroup.setupGroups();    
     while(userInput != 6) {
         mainMenu();
 			
