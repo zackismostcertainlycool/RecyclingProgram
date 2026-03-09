@@ -8,7 +8,7 @@ public class Main {
 	static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
-        Main initializeGroups = new Main();
+        //Main initializeGroups = new Main();
 
         int userInput = 0;
 
@@ -45,7 +45,7 @@ public class Main {
     		break;
 				
 			case 4:
-				Main joinGroup = new Main();
+				//joinGroup = new joinGroup();
 			break;
 					
 			case 5:
