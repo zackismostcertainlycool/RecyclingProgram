@@ -33,7 +33,7 @@ public class Main {
 			//	break;
 				
 			case 1:
-				// add a feature
+				// Main ________ = new Main();
 			break;
 
 			case 2:
@@ -55,13 +55,8 @@ public class Main {
 			default:
 				System.out.println("Invalid option");
 			break;
-				
-			
 		    }
-		
-		
         }
-
     }
     private static void mainMenu() {
 		System.out.println("\nMain Menu\n" + divider);
@@ -75,5 +70,4 @@ public class Main {
 				5. Exit
 				""" + divider);
 	}
-
 }
