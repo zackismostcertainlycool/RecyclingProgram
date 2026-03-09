@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class RecycleLog {
+public class RecyclingLog {
 
     static String divider = "-------------------";
 
