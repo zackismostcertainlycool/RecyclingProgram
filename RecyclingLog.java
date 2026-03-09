@@ -4,7 +4,7 @@ public class RecyclingLog {
 
     static String divider = "-------------------";
 
-    public static void createLog() {
+    public static void main() {
 
         Scanner scanner = Main.scanner;
 
@@ -33,4 +33,5 @@ public class RecyclingLog {
         System.out.println("TOTAL: " + (paper + plastic + metal + glass) + " g");
         System.out.println(divider);
     }
+
 }
