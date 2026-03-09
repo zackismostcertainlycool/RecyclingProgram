@@ -1,4 +1,4 @@
-public class RecylcingInfo {
+public class RecyclingInfo {
     public static void main(String[] args) {
 
         System.out.println("===== Recycling Information Page =====\n");
