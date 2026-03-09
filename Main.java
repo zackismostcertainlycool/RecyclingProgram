@@ -37,7 +37,7 @@ public class Main {
 			break;
 
 			case 2:
-				RecyclingCalculator.main(null);
+				
 			break;
 				
 			case 3:
