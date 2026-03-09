@@ -72,7 +72,7 @@ public class Main {
 				2. Create/Edit Recycle Log
 				3. Recycling Calculator
 				4. Join a Local Group
-                5. View Recycling Centers Near You
+    5. View Recycling Centers Near You
 				6. Exit
 				""" + divider);
 	}
