@@ -27,7 +27,7 @@ public class joinGroup {
 
     public static void joinGroup() {
 
-        System.out.println("\nAvailable Groups\n" + Main.divider);
+        System.out.println("\nAvailable Groups (note: these groups are not real and for demonstration purposes only)\n" + Main.divider);
 
         System.out.println("Group Number | Group Name | Meeting Time | Contact Info");
 
