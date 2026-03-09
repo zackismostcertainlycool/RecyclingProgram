@@ -50,7 +50,7 @@ public class Main {
 			break;
 
 			case 5:
-                map.main(null);
+                recyclingMap.main(null);
 			break;
 					
 			case 6:
