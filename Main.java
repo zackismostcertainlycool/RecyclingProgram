@@ -45,7 +45,7 @@ public class Main {
     		break;
 				
 			case 4:
-				joinGroup.joinGroup();
+				joinGroup.main();
 			break;
 
 			case 5:
