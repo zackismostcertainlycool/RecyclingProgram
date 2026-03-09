@@ -30,5 +30,7 @@ public class RecyclingLog {
         System.out.println("Metal: " + metal + " g");
         System.out.println("Glass: " + glass + " g");
         System.out.println(divider);
+        System.out.println("TOTAL: " + (paper + plastic + metal + glass) + " g");
+        System.out.println(divider);
     }
 }
