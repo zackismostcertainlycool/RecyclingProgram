@@ -16,7 +16,7 @@ public class Main {
         String programName = "Recycling Tracker Program"; 
 		System.out.println(largeDivider + "\n"+ programName +"\n" + largeDivider);
         
-    while(userInput != 5) {
+    while(userInput != 6) {
         mainMenu();
 			
 			// Gets user input
