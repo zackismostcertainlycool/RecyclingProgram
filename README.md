@@ -10,4 +10,3 @@ This program allows users to:
 - create and edit Recycling Logs
 - use a Recycling calculator
 - join various informational groups about recycling
->>>>>>> f8fd6b9be11d470a639810393f98a6ba0f66fdd1
