@@ -8,10 +8,12 @@ public class Main {
 	static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
-        
+        Main initializeGroups = new Main();
+
         int userInput = 0;
 
-        String programName = "Recycling Tracker Program"; // Temporary Name
+        // prints program name
+        String programName = "Recycling Tracker Program"; 
 		System.out.println(largeDivider + "\n"+ programName +"\n" + largeDivider);
         
     while(userInput != 5) {
@@ -43,7 +45,7 @@ public class Main {
     		break;
 				
 			case 4:
-				//joinGroup();
+				Main joinGroup = new Main();
 			break;
 					
 			case 5:

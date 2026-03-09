@@ -1,5 +1,6 @@
 =======
 # Java 141 Group Project
+=======
 
 ## Recycling Program
 This program allows users to organize how they recycle.
