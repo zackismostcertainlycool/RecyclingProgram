@@ -41,11 +41,11 @@ public class Main {
 			break;
 				
 			case 3:
-				JoinGroup.joinGroup();
+				RecyclingCalculator.main(null);
     		break;
 				
 			case 4:
-				//joinGroup = new joinGroup();
+				JoinGroup.joinGroup();
 			break;
 
 			case 5:
@@ -53,7 +53,7 @@ public class Main {
 			break;
 					
 			case 6:
-    			System.out.println("Thank you for using the Recycling Tracker Program. Goodbye!");
+    			System.out.println("Thank you for using the Recycling Program. Goodbye!");
 			break;
 					
 			default:
