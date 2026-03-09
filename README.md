@@ -11,4 +11,4 @@ This program allows users to:
 - create and edit Recycling Logs
 - use a Recycling calculator
 - join various informational groups about recycling
-- veiw information of where local recycling center are
+- view information of where local recycling center are
