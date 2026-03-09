@@ -37,7 +37,7 @@ public class Main {
 			break;
 
 			case 2:
-				// add a feature
+				Main RecyclingInfo = new Main();
 			break;
 				
 			case 3:
